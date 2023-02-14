@@ -19,6 +19,5 @@ Create Mobile Application which can add 4 Button in The screen.</h3>
 </ul>
 
 <p>
-
-	<img src ="https://user-images.githubusercontent.com/113653816/218710222-92b96fce-41df-4219-aac5-b0daa2eb9270.png" width=20% hight= 20%/>
+	<img src ="https://user-images.githubusercontent.com/113653816/218710222-92b96fce-41df-4219-aac5-b0daa2eb9270.png" width=20 hight= 20/>
 </p>
